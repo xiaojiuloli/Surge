@@ -6,6 +6,3 @@ https://raw.githubusercontent.com/xiaojiuloli/Surge/master/rule/Direct.list
 
 国外代理
 https://raw.githubusercontent.com/xiaojiuloli/Surge/master/rule/Proxy.list
-
-pt（直连）
-https://raw.githubusercontent.com/xiaojiuloli/Surge/master/rule/pt.list
