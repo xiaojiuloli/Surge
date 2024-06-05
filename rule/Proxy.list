@@ -20,9 +20,11 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,google.com
 # 18禁
 DOMAIN-SUFFIX,wnacg.com
+# DLsite
 DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,tiktok.com
+# 琉璃神社
 DOMAIN-SUFFIX,hacg.lv
-DOMAIN-SUFFIX,rosimm.com
 # pt
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,fsm.name
