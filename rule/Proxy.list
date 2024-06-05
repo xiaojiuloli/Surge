@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 # 谷歌
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gstatic.com
 # > 18禁
 # 小黄书
 DOMAIN-SUFFIX,wnacg.com
