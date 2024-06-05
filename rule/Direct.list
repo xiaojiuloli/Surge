@@ -1,8 +1,14 @@
 # 国内直连
+# 百度
 DOMAIN-SUFFIX,baidu.com
+# 哔哩哔哩
 DOMAIN-SUFFIX,bilibili.com
+# 在线音乐
 DOMAIN-SUFFIX,hifini.com
+# 动漫压制
 DOMAIN-SUFFIX,vcb-s.com
+# 肉丝写真
+DOMAIN-SUFFIX,rosimm.com
 # 购物
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,jd.com
