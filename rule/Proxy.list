@@ -1,13 +1,20 @@
 # 国外代理
+# 推特
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
+# 油管
 DOMAIN-SUFFIX,youtube.com
+# pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
+# 小黄书
 DOMAIN-SUFFIX,wnacg.com
+# github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+# 谷歌
+DOMAIN-SUFFIX,google.com
 # pt
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,fsm.name
