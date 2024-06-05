@@ -3,3 +3,7 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hifini.com
 DOMAIN-SUFFIX,vcb-s.com
+# 购物
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,pinduoduo.com
