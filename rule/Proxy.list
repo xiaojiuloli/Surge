@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 # 油管
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googleapis.com
 # pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
