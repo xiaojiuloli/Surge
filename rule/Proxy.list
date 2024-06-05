@@ -1,2 +1,9 @@
-# 国外代理
+# 常用网站
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,wnacg.com
+DOMAIN-SUFFIX,github.com
+# pt
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,fsm.name
