@@ -18,9 +18,10 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 # 谷歌
 DOMAIN-SUFFIX,google.com
-# 小黄书
+# 18禁
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,hacg.lv
 # pt
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,fsm.name
