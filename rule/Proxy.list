@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,googlevideo.com
 # pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
-# 小黄书
-DOMAIN-SUFFIX,wnacg.com
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
