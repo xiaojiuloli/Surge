@@ -1,4 +1,4 @@
-# 国外代理
+# > 国外代理
 # 推特
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
@@ -18,7 +18,8 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 # 谷歌
 DOMAIN-SUFFIX,google.com
-# 18禁
+# > 18禁
+# 小黄书
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,stripcdn.com
 # DLsite
