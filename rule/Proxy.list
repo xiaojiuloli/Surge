@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,google.com
 # 18禁
 DOMAIN-SUFFIX,wnacg.com
+DOMAIN-SUFFIX,stripcdn.com
 # DLsite
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,tiktok.com
