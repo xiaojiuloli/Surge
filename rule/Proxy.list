@@ -42,3 +42,4 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
 # NAS
 DOMAIN-SUFFIX,quickconnect.to
+IP-CIDR,103.188.234.0/24
