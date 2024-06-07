@@ -40,3 +40,5 @@ DOMAIN-SUFFIX,0poi00001010.com
 # steam
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
+# NAS
+DOMAIN-SUFFIX,quickconnect.to
