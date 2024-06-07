@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,pximg.net
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,docker.com
 # 谷歌
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gstatic.com
