@@ -1,3 +1,4 @@
 # 本地局域网
 DOMAIN-SUFFIX,asusrouter.com
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
