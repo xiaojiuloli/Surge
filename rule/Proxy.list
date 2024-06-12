@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,googlevideo.com
 # pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pixivsketch.net
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
