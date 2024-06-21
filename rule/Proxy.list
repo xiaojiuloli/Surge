@@ -24,16 +24,6 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gstatic.com
 # > 18禁
-# 虎穴
-DOMAIN-SUFFIX,toranoana.jp
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,buyee.jp
-# 蜜瓜
-DOMAIN-SUFFIX,melonbooks.co.jp
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,jp1media.com
-DOMAIN-SUFFIX,mdt.qq.com
 # 小黄书
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,stripcdn.com
