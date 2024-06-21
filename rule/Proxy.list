@@ -1,4 +1,4 @@
-# > 国外代理
+## > 国外代理
 # 推特
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,buyee.jp
 # 蜜瓜
 DOMAIN-SUFFIX,melonbooks.co.jp
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,clarity.ms
 # 小黄书
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,stripcdn.com
