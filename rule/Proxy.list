@@ -44,3 +44,6 @@ DOMAIN-SUFFIX,0poi00001010.com
 # steam
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
+# > VPS
+# 搬瓦工
+DOMAIN-SUFFIX,bandwagonhost.com
