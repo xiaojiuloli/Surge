@@ -1,10 +1,4 @@
 ### > 国外代理
-# github
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,alicdn.com
 # > 18禁
 # 小黄书
 DOMAIN-SUFFIX,wnacg.com
