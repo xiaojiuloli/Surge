@@ -9,13 +9,6 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,line.me
 # 琉璃神社
 DOMAIN-SUFFIX,hacg.lv
-# pt
-DOMAIN-SUFFIX,dmhy.org
-DOMAIN-SUFFIX,fsm.name
-# > 游戏
-# steam
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamcommunity.com
 # > VPS
 # 搬瓦工
 DOMAIN-SUFFIX,bandwagonhost.com
