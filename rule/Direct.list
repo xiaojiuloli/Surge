@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,pinduoduo.com
 # 起点
 DOMAIN-SUFFIX,qidian.com
+# 群晖
+DOMAIN-SUFFIX,synology.com
