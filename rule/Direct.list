@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,qidian.com
 # 群晖
 DOMAIN-SUFFIX,synology.com
+# vps论坛
+DOMAIN-SUFFIX,nodeseek.com
