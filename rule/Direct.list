@@ -3,22 +3,11 @@
 DOMAIN-KEYWORD,xiaojiuloli
 # 华硕
 DOMAIN-KEYWORD,asuscomm
-# 百度
-DOMAIN-SUFFIX,baidu.com
-# 哔哩哔哩
-DOMAIN-SUFFIX,bilibili.com
 # 在线音乐
 DOMAIN-SUFFIX,hifini.com
 # 肉丝写真
 DOMAIN-SUFFIX,rosimm.com
-# 购物
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,pinduoduo.com
 # 起点
 DOMAIN-SUFFIX,qidian.com
-# 群晖
-DOMAIN-SUFFIX,synology.com
 # vps论坛
 DOMAIN-SUFFIX,nodeseek.com
-
