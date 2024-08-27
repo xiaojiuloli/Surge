@@ -1,6 +1,8 @@
 # > 国内直连
 # 域名
 DOMAIN-KEYWORD,xiaojiuloli
+# 华硕
+DOMAIN-KEYWORD,asuscomm
 # 百度
 DOMAIN-SUFFIX,baidu.com
 # 哔哩哔哩
@@ -19,3 +21,4 @@ DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,synology.com
 # vps论坛
 DOMAIN-SUFFIX,nodeseek.com
+
