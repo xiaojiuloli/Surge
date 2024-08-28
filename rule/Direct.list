@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,rosimm.com
 DOMAIN-SUFFIX,qidian.com
 # vps论坛
 DOMAIN-SUFFIX,nodeseek.com
+# 搜狗输入法
+DOMAIN-SUFFIX,sogou.com
