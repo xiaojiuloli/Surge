@@ -3,12 +3,8 @@
 # 小黄书
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,stripcdn.com
-# DLsite
-DOMAIN-SUFFIX,dlsite.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,line.me
 # 琉璃神社
-DOMAIN-SUFFIX,hacg.lv
+DOMAIN-SUFFIX,www.hacg.me
 # > VPS
 # 搬瓦工
 DOMAIN-SUFFIX,bandwagonhost.com
