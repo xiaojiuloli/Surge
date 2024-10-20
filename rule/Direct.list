@@ -9,14 +9,16 @@ DOMAIN-SUFFIX,hifini.com
 DOMAIN-SUFFIX,rosimm.com
 # 起点
 DOMAIN-SUFFIX,qidian.com
-# vps论坛
+# 蜜瓜
+DOMAIN-SUFFIX,melonbooks.co.jp
+# > Vps
+# 交易论坛
 DOMAIN-SUFFIX,nodeseek.com
 # 美西优化线路
 DOMAIN-SUFFIX,zgocloud.cc
 # 亚太优化线路
 DOMAIN-SUFFIX,claw.cloud
 DOMAIN-SUFFIX,yxvm.com
+DOMAIN-SUFFIX,sharon.io
 # 落地机
 DOMAIN-SUFFIX,bagevm.com
-# 蜜瓜
-DOMAIN-SUFFIX,melonbooks.co.jp
