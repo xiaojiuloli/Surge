@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,yxvm.com
 DOMAIN-SUFFIX,sharon.io
 # 落地机
 DOMAIN-SUFFIX,bagevm.com
+# 优堡签到
+DOMAIN,challenge.rivers.chaitin.cn
