@@ -1,9 +1,16 @@
 ### > 国外代理
 # > 18禁
-# 小黄书
+# 绅士漫画
 DOMAIN-SUFFIX,wnacg.com
+# 禁漫天堂
+DOMAIN-SUFFIX,18comic.vip
 # 琉璃神社
 DOMAIN-SUFFIX,www.hacg.me
+# > 黄色论坛
+# 春满四合院
+DOMAIN-SUFFIX,chunman4.com
+# 禁忌书屋
+DOMAIN-SUFFIX,cool18.com
 # > VPS
 # 交易论坛
 DOMAIN-SUFFIX,nodeseek.com
@@ -38,7 +45,3 @@ DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,hhanclub.top
 # 天雪
 DOMAIN-SUFFIX,skyey2.com
-# 春满四合院
-DOMAIN-SUFFIX,chunman4.com
-# 禁忌书屋
-DOMAIN-SUFFIX,cool18.com
