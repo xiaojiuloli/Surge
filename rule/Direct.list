@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,zgocloud.cc
 DOMAIN-SUFFIX,lala.gg
 # 落地机
 DOMAIN-SUFFIX,bagevm.com
-# > ssh工具
-# Termius
+# ssh工具
 DOMAIN-SUFFIX,termius.com
+# 密码管理工具
+DOMAIN-SUFFIX,1password.com
