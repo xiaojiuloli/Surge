@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,www.hacg.me
 # Dlsite漫画
 DOMAIN-SUFFIX,dlsite.com
 # 台湾电子书平台
-DOMAIN,bookwalker.com.tw
+DOMAIN-KEYWORD,bookwalker
 # > 黄色论坛
 # 春满四合院
 DOMAIN-SUFFIX,chunman4.com
