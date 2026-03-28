@@ -13,12 +13,10 @@ DOMAIN-SUFFIX,toranoana.jp
 DOMAIN,next.itellyou.cn
 # > Vps
 # 美西优化线路
-DOMAIN-SUFFIX,zgocloud.cc
+DOMAIN-SUFFIX,dmit.io
 # 深港IEPL线路
 DOMAIN-SUFFIX,lala.gg
 # 落地机
 DOMAIN-SUFFIX,bagevm.com
-# Voluri
-DOMAIN-SUFFIX,voluri.net
 # ssh工具
 DOMAIN-SUFFIX,termius.com
