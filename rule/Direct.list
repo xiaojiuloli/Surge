@@ -14,8 +14,6 @@ DOMAIN,next.itellyou.cn
 # > Vps
 # 美西优化线路
 DOMAIN-SUFFIX,dmit.io
-# 深港IEPL线路
-DOMAIN-SUFFIX,lala.gg
 # 落地机
 DOMAIN-SUFFIX,bagevm.com
 # ssh工具
