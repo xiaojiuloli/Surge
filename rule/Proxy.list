@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,dlsite.com
 # 台湾电子书平台
 DOMAIN-KEYWORD,bookwalker
 # 虎穴
-DOMAIN-SUFFIX,toranoana.jp
+DOMAIN-KEYWORD,toranoana
 # 蜜瓜
-DOMAIN-SUFFIX,melonbooks.co.jp
+DOMAIN-KEYWORD,melonbooks
 # > 黄色论坛
 # 春满四合院
 DOMAIN-SUFFIX,chunman4.com
@@ -27,8 +27,6 @@ DOMAIN-SUFFIX,diyibanzhu.me
 DOMAIN-SUFFIX,nodeseek.com
 # 搬瓦工
 DOMAIN-SUFFIX,bandwagonhost.com
-# 深港IEPL线路
-DOMAIN-SUFFIX,lala.gg
 # > Pt
 # U2
 DOMAIN-SUFFIX,dmhy.org
