@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,bagevm.com
 # ssh工具
 DOMAIN-SUFFIX,termius.com
+# 虎穴
+DOMAIN-KEYWORD,toranoana
+# 蜜瓜
+DOMAIN-KEYWORD,melonbooks
